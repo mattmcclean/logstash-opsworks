@@ -4,3 +4,6 @@
 [submodule "kibana"]
 	path = kibana
 	url = https://github.com/lusis/chef-kibana.git
+[submodule "ant"]
+	path = ant
+	url = https://github.com/opscode-cookbooks/ant.git
